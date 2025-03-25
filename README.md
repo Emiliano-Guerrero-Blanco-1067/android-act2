@@ -2,7 +2,10 @@
 
 A new Flutter project created with FlutLab - https://flutlab.io
 
-## Getting Started
+## salida
+![image](https://github.com/user-attachments/assets/afa4540e-2544-4f8a-b831-eeabd558a6dd)
+
+
 
 A few resources to get you started if this is your first Flutter project:
 
